@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Rastko
 
-<!--
-**Rastko91/Rastko91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FirstSpirit CMS developer focused on frontend, JavaScript/TypeScript, CMS templating, and backend learning with Java/Spring Boot.
 
-Here are some ideas to get you started:
+## Tech stack
+- FirstSpirit CMS
+- JavaScript / TypeScript
+- HTML / CSS
+- Java basics
+- Spring Boot learning
+- Git / Bitbucket / GitHub
+- Maven / Jenkins basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Java
+- Spring Boot
+- REST APIs
+- CMS integrations
